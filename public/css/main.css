@@ -1,0 +1,102 @@
+html, body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 0;
+    margin: 0;
+    height: 100%;
+}
+button {
+    border-radius: 1em;
+    background-color: rgb(255, 88, 46);
+    color: #fff;
+    font-weight: 300;
+    border: none;
+    outline: none;
+    padding: 1em;
+    font-size: 1em;
+    box-shadow: 0px 2px 3px #333;
+    margin: 8px;
+}
+button:hover {
+    cursor: pointer;
+    background-color: rgb(255, 121, 87);
+    box-shadow: 0px 1px 1px #333;
+}
+div.header {
+    background-color: #333;
+    color: #fefefe;
+    text-align: center;
+    padding: 1em;
+}
+div.job {
+    border-bottom: 1px solid #d7d7d7;
+    padding: 1em;
+}
+div.button {
+    margin: 10px 0;
+    text-align: right;
+}
+div.add-button {
+    text-align: right;
+}
+h3 {
+    margin: 0;
+}
+p {
+    margin: 0;
+}
+div.modal {
+    position: absolute;
+    z-index: 1000;
+    background-color: #dedede;
+    box-shadow: 0px 1px 10px #333;
+    width: 90%;
+    max-width: 1000px;
+    /* height: 50%; */
+    top: 10%;
+    left: 50%;
+    transform: translateX(-50%);
+    border-radius: 1em;
+    padding: 10px;
+}
+div.editable-job {
+    margin: 10px auto;
+    padding: 15px 10px;
+    border-bottom: 1px solid #333;
+}
+div.add-job-form {
+    padding: 1em;
+}
+button.remove-job {
+    border-radius: 0.3em;
+    color: #333;
+    background-color: #d7d7d7;
+    border: 1px solid;
+    padding: 5px;
+}
+button.remove-job:disabled {
+    background-color: #fefefe;
+    border: 0;
+    box-shadow: none;
+}
+button.close-button {
+    border-radius: 0.3em;
+    background-color: #333;
+    color: #fff;
+}
+button.submit-edited-jobs {
+    background-color: rgb(90, 200, 90);
+}
+label {
+    display: block;
+    font-size: 1em;
+    padding: 8px 0;
+}
+input {
+    font-size: 1em;
+    padding: 8px;
+    display: block;
+    width: 90%;
+    border-radius: 0.5em;
+    margin-bottom: 10px;
+    border: 1px solid #d7d7d7;
+}

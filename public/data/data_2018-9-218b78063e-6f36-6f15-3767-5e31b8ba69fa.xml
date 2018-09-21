@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<jobs>
+  <job>
+    <title>Senior Estimator</title>
+    <description>n/a</description>
+    <rate>9/21/2018</rate>
+    <dateAdded>9/21/2018</dateAdded>
+  </job>
+  <job>
+    <title>Title 3</title>
+    <description>This is a description for job 3</description>
+    <rate>9/21/2018</rate>
+    <dateAdded>9/21/2018</dateAdded>
+  </job>
+  <job>
+    <title>Project Manager</title>
+    <description>n/a</description>
+    <rate>$60</rate>
+  </job>
+</jobs>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<data>
+  <job>
+    <title>Title 1</title>
+    <description>This is a description for job 1</description>
+    <dateAdded/>
+    <rate>$35</rate>
+  </job>
+  <job>
+    <title>Title 2</title>
+    <description>This is a description for job 2</description>
+    <dateAdded/>
+    <rate>$55</rate>
+  </job>
+  <job>
+    <title>Title 3</title>
+    <description>This is a description for job 3</description>
+    <dateAdded/>
+    <rate>$45</rate>
+  </job>
+</data>

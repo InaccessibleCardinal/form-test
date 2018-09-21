@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<jobs>
+  <job>
+    <title>Senior Estimator</title>
+    <description>n/a</description>
+    <rate>$55</rate>
+    <dateAdded>9/21/2018</dateAdded>
+  </job>
+  <job>
+    <title>Project Manager</title>
+    <description>Manages projects</description>
+    <rate>$60</rate>
+    <dateAdded>9/21/2018</dateAdded>
+  </job>
+  <job>
+    <title>Apprentice</title>
+    <description>Shoots wires</description>
+    <rate>$22</rate>
+    <dateAdded>9/21/2018</dateAdded>
+  </job>
+</jobs>

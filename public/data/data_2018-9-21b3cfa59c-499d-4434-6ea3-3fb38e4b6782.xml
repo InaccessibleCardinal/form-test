@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<jobs>
+  <job>
+    <title>Senior Estimator</title>
+    <description>n/a</description>
+    <rate>$55</rate>
+    <dateAdded>9/21/2018</dateAdded>
+    <ids>
+      <titleId>job-title_0</titleId>
+      <descriptionId>job-description_0</descriptionId>
+      <rateId>job-rate_0</rateId>
+    </ids>
+  </job>
+  <job>
+    <title>Project Manager</title>
+    <description>n/a</description>
+    <rate>$60</rate>
+    <dateAdded>9/21/2018</dateAdded>
+    <ids>
+      <titleId>job-title_2</titleId>
+      <descriptionId>job-description_2</descriptionId>
+      <rateId>job-rate_2</rateId>
+    </ids>
+  </job>
+</jobs>
